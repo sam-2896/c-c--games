@@ -1,0 +1,101 @@
+
+//C project
+
+while(1)
+{
+Enter 1 for print table
+Enter 2 for play game
+Enter 3 for calculator
+Enter 4 for conversion
+Enter 5 for Registeration
+Enter 6 for read detail
+Enter 7 to shut down pc
+Enter 8 for exit
+
+1.
+
+Enter no=
+sf(n);
+n ka table print
+or
+table();
+
+2.
+
+game();
+
+
+3.
+ENter 1 value=
+sf(x)
+Enter 2 value=
+sf(y)
+press 1 for add 2 for sub
+switch(i)
+calculator
+
+
+
+4.
+Enter 1 for degree to calvin 2 for dollar to rupees and 3 for pound to rupees
+
+
+
+5.
+Enter name=
+Enter mobile=
+Enter email=
+
+automatically 1 file should create.File name must be mobile no.
+Name=Ramlal
+Mobile=987654367
+Email=ramlal@gmail.com
+
+
+6.
+Enter mobile no=
+
+Name=Ramlal
+mobile=
+Email=
+
+
+7.
+
+
+8.
+exit(0);
+
+
+
+}
+
+
+table()
+{
+
+}
+
+
+calculator()
+{
+
+
+}
+
+
+
+game()
+{
+
+}
+
+register()
+{
+
+}
+
+
+
+
+
